@@ -1,31 +1,12 @@
-# Ancien Site 2022
+# Ancien Site 2022 — copie conforme SiteW
 
-Archive améliorée et fidèle du site SiteW original : <https://developpeur-commercial.sitew.fr/>
+Ce dépôt publie une copie conforme statique du site original :
 
-## Intention
+<https://developpeur-commercial.sitew.fr/>
 
-Cette version ne cherche pas à remplacer l'identité du site original par une refonte générique. Elle conserve la logique visuelle du SiteW 2022 :
+## Source archivée
 
-- hero poster noir/blanc `SALES AND MARKETING` ;
-- nom vertical ;
-- sections blanches asymétriques ;
-- formes graphiques noir/violet ;
-- références/logos stylisés ;
-- call-to-action final noir avec bouton blanc.
+- `original/sitew-home.html` : HTML aspiré du site SiteW original.
+- `original/extracted-text.txt` : extraction texte de contrôle.
 
-Les améliorations portent uniquement sur :
-
-- lisibilité ;
-- alignement ;
-- responsive mobile ;
-- suppression du bruit publicitaire SiteW ;
-- sémantique HTML ;
-- conservation/archive du contenu original.
-
-## Archive source
-
-```text
-original/sitew-home.html
-original/extracted-text.txt
-```
-
+La page publiée `index.html` est volontairement le HTML original, sans refonte ni interprétation visuelle.
