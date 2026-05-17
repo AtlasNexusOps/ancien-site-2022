@@ -1,30 +1,28 @@
 # Ancien Site 2022
 
-Archive modernisée du site SiteW original : <https://developpeur-commercial.sitew.fr/>
+Archive améliorée et fidèle du site SiteW original : <https://developpeur-commercial.sitew.fr/>
 
-## Objectif
+## Intention
 
-Préserver le contenu du site personnel 2022 tout en proposant une interface statique plus propre, responsive et professionnelle.
+Cette version ne cherche pas à remplacer l'identité du site original par une refonte générique. Elle conserve la logique visuelle du SiteW 2022 :
 
-## Contenu conservé
+- hero poster noir/blanc `SALES AND MARKETING` ;
+- nom vertical ;
+- sections blanches asymétriques ;
+- formes graphiques noir/violet ;
+- références/logos stylisés ;
+- call-to-action final noir avec bouton blanc.
 
-- Positionnement développeur-commercial.
-- Parcours Assurance Maladie, FedEx, GMED, Retail Renault Group.
-- Marketing, créativité, culture web.
-- Développement terrain et transport.
-- Finance, blockchain et veille marché.
-- Invitation au contact/projet.
+Les améliorations portent uniquement sur :
 
-## Stack
-
-- HTML statique.
-- CSS custom responsive.
-- JavaScript léger pour les animations d'apparition.
-- Déploiement GitHub Pages.
+- lisibilité ;
+- alignement ;
+- responsive mobile ;
+- suppression du bruit publicitaire SiteW ;
+- sémantique HTML ;
+- conservation/archive du contenu original.
 
 ## Archive source
-
-Le HTML original aspiré est conservé dans :
 
 ```text
 original/sitew-home.html
