@@ -1,6 +1,6 @@
 # Ancien Site 2022 — copie conforme SiteW
 
-Ce dépôt publie une copie conforme statique du site original :
+Ce dépôt publie une copie conforme statique du site original, réalisé en front-end sans IA :
 
 <https://developpeur-commercial.sitew.fr/>
 
